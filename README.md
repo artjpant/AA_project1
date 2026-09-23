@@ -1,2 +1,2 @@
 # AA_project1
-2026 veebiprogrammeerimise AA esimene projekt
+2026 veebiprogrammeerimise AA esimene projekt 1
