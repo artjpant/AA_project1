@@ -1,0 +1,1 @@
+console.log('Hõissassaa! see hakkas tööle');
